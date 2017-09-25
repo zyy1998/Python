@@ -1,0 +1,58 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+portal.hfnu.edu.cn	FALSE	/sso/	FALSE		JSESSIONID	87C3A1AE769D6F8DAE6F6B216B18FD51
+
+http://mh.hfnu.edu.cn/web/guest/243
+
+
+ </div>
+    <div class="login-box">
+        <div class="login-content">
+            <div class="section">
+                <div class="title">用户登录</div>
+                <form id="credentials" action="/sso/login?service=http%3A%2F%2Fmh.hfnu.edu.cn%2Fweb%2Fguest" method="post">
+                <li class="err">
+                    
+                </li>
+                <ul class="content">
+                    <li>
+                        <img src="images/icon1.png" alt=""/>
+                        <input type="text" placeholder="学号/工号" name="username" class="bin"/>
+                        <a href="javascript:void(0)" onclick="loginReg()">登录规则</a>
+                    </li>
+                    <li>
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5667
+Date: Thu, 07 Sep 2017 15:13:00 GMT
+
+
+div class="login-box">
+        <div class="login-content">
+            <div class="section">
+                <div class="title">用户登录</div>
+                <form id="credentials" action="/sso/login?service=http%3A%2F%2Fmh.hfnu.edu.cn%2Fweb%2Fguest" method="post">
+                <li class="err">
+                    
+                </li>
+                <ul class="content">
+                    <li>
+                        <img src="images/icon1.png" alt=""/>
+                        <input type="text" placeholder="学号/工号" name="username" class="bin"/>
+                        <a href="javascript:void(0)" onclick="loginReg()">登录规则</a>
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5697
+Date: Thu, 07 Sep 2017 15:08:56 GMT
