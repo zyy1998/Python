@@ -11,8 +11,8 @@ lt = ltTemp[0]['value']
 print "lt"+lt
 
 postData = {
-'username':'1610411010',
-'password':'300713',
+'username':'',
+'password':'',
 'lt':lt,
 'eventId':'submit'
 }
